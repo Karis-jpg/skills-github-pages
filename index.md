@@ -1,5 +1,5 @@
 ---
-title: Welcome to my blog!
+title: Welcome! A new website awaits...
 
-#Heading my new heading!
+
 ---
